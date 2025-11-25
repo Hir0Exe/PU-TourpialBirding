@@ -1,0 +1,42 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rama más grande -->
+  <path d="M40 160 Q80 150, 120 140 L160 130" stroke="#8B7355" stroke-width="6" fill="none"/>
+  <ellipse cx="50" cy="156" rx="16" ry="8" fill="#2E8B57" opacity="0.6"/>
+  <ellipse cx="90" cy="146" rx="20" ry="10" fill="#2E8B57" opacity="0.6"/>
+  <ellipse cx="140" cy="136" rx="24" ry="12" fill="#2E8B57" opacity="0.6"/>
+  
+  <!-- Cuerpo del ave más grande -->
+  <ellipse cx="100" cy="90" rx="36" ry="44" fill="#F4A300"/>
+  
+  <!-- Ala más grande -->
+  <path d="M84 80 Q70 90, 76 110 Q80 100, 84 90 Z" fill="#1a1a1a"/>
+  <path d="M80 84 Q66 94, 72 114 L80 104 Z" fill="#2E8B57"/>
+  
+  <!-- Pecho más grande -->
+  <ellipse cx="100" cy="100" rx="24" ry="32" fill="#F4A300"/>
+  
+  <!-- Cabeza más grande -->
+  <circle cx="100" cy="60" r="24" fill="#1a1a1a"/>
+  
+  <!-- Ojo más grande -->
+  <circle cx="104" cy="56" r="6" fill="white"/>
+  <circle cx="106" cy="56" r="3" fill="#1a1a1a"/>
+  
+  <!-- Pico más grande -->
+  <path d="M116 60 L130 56 L116 52 Z" fill="#718096"/>
+  
+  <!-- Cola más grande -->
+  <path d="M70 120 L50 150 L60 124 Z" fill="#1a1a1a"/>
+  <path d="M64 116 L44 140 L56 120 Z" fill="#2E8B57"/>
+  
+  <!-- Patas más grandes -->
+  <line x1="96" y1="130" x2="90" y2="144" stroke="#8B7355" stroke-width="4"/>
+  <line x1="104" y1="130" x2="110" y2="144" stroke="#8B7355" stroke-width="4"/>
+  <path d="M90 144 L84 146 M90 144 L96 146" stroke="#8B7355" stroke-width="3"/>
+  <path d="M110 144 L104 146 M110 144 L116 146" stroke="#8B7355" stroke-width="3"/>
+  
+  <!-- Detalles decorativos más grandes -->
+  <path d="M100 80 Q90 84, 92 92" stroke="#F4A300" stroke-width="2" opacity="0.5" fill="none"/>
+  <circle cx="88" cy="70" r="3" fill="#FFFFFF" opacity="0.3"/>
+</svg>
+

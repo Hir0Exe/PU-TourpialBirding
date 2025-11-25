@@ -1,0 +1,23 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporales
+*.log
+*.tmp
+.cache/
+
+# Node (si usas alguna herramienta)
+node_modules/
+package-lock.json
+
+# Archivos de sistema Windows
+$RECYCLE.BIN/
