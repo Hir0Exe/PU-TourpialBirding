@@ -98,11 +98,13 @@ PU-TourpialBirding/
 ├── js/
 │   └── main.js             # Funcionalidades JavaScript
 ├── assets/
-│   ├── logo.svg            # Logo principal
-│   ├── logo-large.svg      # Logo grande para hero
+│   ├── logo.jpg            # Logo principal (1024x1024)
 │   ├── favicon.svg         # Favicon del sitio
-│   └── bird-mission.jpeg   # Imagen de misión
-│   # Nota: Algunas imágenes se cargan desde Unsplash para demo
+│   ├── bird-mission.jpg    # Imagen de misión
+│   ├── bird-turpial.jpg    # Imagen del turpial
+│   ├── bird-guided-discovery.jpeg    # Experiencia 1
+│   ├── bird-deep-connection.jpeg     # Experiencia 2
+│   └── bird-vivencial-learning.jpeg  # Experiencia 3
 ├── README.md               # Este archivo
 └── Presentacion_descompuesta_imagenes/  # Slides del proyecto
 ```

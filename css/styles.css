@@ -172,8 +172,10 @@ ul {
 }
 
 .logo {
-    height: 50px;
+    height: 60px;
     width: auto;
+    object-fit: contain;
+    border-radius: 6px;
 }
 
 .brand-name {
@@ -181,6 +183,7 @@ ul {
     font-size: 1.5rem;
     font-weight: 700;
     color: var(--color-primary);
+    display: none; /* Oculto porque el logo JPG ya incluye el texto */
 }
 
 .nav-menu {
@@ -276,10 +279,12 @@ ul {
 }
 
 .hero-logo {
-    height: 120px;
+    height: 200px;
     width: auto;
     margin: 0 auto;
     filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.2));
+    object-fit: contain;
+    border-radius: 12px;
 }
 
 .hero-title {
@@ -288,6 +293,7 @@ ul {
     font-weight: 700;
     margin-bottom: var(--spacing-sm);
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    display: none; /* Oculto porque el logo ya incluye el texto */
 }
 
 .hero-subtitle {
@@ -848,9 +854,11 @@ ul {
 }
 
 .footer-logo {
-    height: 60px;
+    height: 80px;
     width: auto;
     margin-bottom: var(--spacing-sm);
+    object-fit: contain;
+    border-radius: 8px;
 }
 
 .footer-section h3 {
@@ -858,6 +866,7 @@ ul {
     font-size: 1.5rem;
     color: var(--color-secondary);
     margin-bottom: var(--spacing-sm);
+    display: none; /* Oculto porque el logo ya incluye el texto */
 }
 
 .footer-section h4 {
